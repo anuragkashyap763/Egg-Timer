@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "round-unhappy-egg-sad-face-sad-smile-eyes-generative-ai-generative-artificial-intelligence-round-unhappy-egg-267310209.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "round-unhappy-egg-sad-face-sad-smile-eyes-generative-ai-generative-artificial-intelligence-round-unhappy-egg-267310209@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "round-unhappy-egg-sad-face-sad-smile-eyes-generative-ai-generative-artificial-intelligence-round-unhappy-egg-267310209@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
